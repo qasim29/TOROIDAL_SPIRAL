@@ -7,6 +7,7 @@
 ### PACKAGES USED
 
 - THREE.js
+
 ![alt](https://github.com/qasim29/TOROIDAL_SPIRAL/blob/master/TOROIDAL_SPIRAL.gif)
 
 
