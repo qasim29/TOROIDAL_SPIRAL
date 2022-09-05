@@ -8,7 +8,7 @@
 
 - THREE.js
 
-![alt](https://github.com/qasim29/TOROIDAL_SPIRAL/blob/master/TOROIDAL_SPIRAL.gif)
+![alt](https://github.com/qasim29/TOROIDAL_SPIRAL/blob/master/TOROIDAL_SPIRAL..gif.gif)
 
 
 Following script tags can be used instead of installing modules. 
